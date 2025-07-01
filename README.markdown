@@ -1,10 +1,6 @@
 # Criando um Orçamento na AWS com Budget - Laboratório AWS Budget
 *Por Tiago Mascarenhas*
 
-## Resumo
-Descreva brevemente o que é o projeto. Exemplo:
-"Este laboratório configura o orçamento `meu-budget-Tiago` na AWS com limite de US$ 1,00, alertas por e-mail e valida o excedente de US$ 1,16."
-
 ## Objetivo
 Explique o propósito do projeto. Exemplo:
 "Aprender a criar e gerenciar orçamentos na AWS, configurar alertas (`meu-budget-Tiago`) e monitorar custos."
