@@ -2,8 +2,7 @@
 *Por Tiago Mascarenhas*
 
 ## Objetivo
-Explique o propósito do projeto. Exemplo:
-"Aprender a criar e gerenciar orçamentos na AWS, configurar alertas (`meu-budget-Tiago`) e monitorar custos."
+Aprender a criar e gerenciar orçamentos na AWS, configurar alertas (`meu-budget-Tiago`) e monitorar custos.
 
 ## Tecnologias Utilizadas
 - AWS Budgets
@@ -14,7 +13,7 @@ Explique o propósito do projeto. Exemplo:
 ## Passos Realizados
 1. Criei uma instância EC2 com sistema operacional 
 2. Configurei o grupo de segurança `meu-budget-Tiago` com regras para alertas.
-3. Gere o alerta `meu-budget-Tiago` para acesso seguro por e-mail.
+3. Gerei o alerta `meu-budget-Tiago` para acesso seguro por e-mail.
 4. Conectei à instância via monitoramento de custos.
    
 
